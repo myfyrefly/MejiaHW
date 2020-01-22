@@ -1,2 +1,2 @@
 # MejiaHW
-assignments
+These are my homework assignments from UTSA Coding Bootcamp.
