@@ -1,2 +1,2 @@
 # MejiaHW
-These are my homework assignments from UTSA Coding Bootcamp.
+These is assignment number 1 where we needed to clean up the code with the appropriate semantic tags.
